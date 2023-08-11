@@ -3,4 +3,6 @@
 
 Use the above link to download destination pics and paste them inside the DestinationPics folder and you are ready to go.
 
+Go to Travel Destination Recommendation System - Application.ipynb
+
 Run all the cells and then goto localhost/pywebio to view the running application.
